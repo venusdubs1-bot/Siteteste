@@ -1,0 +1,16 @@
+/* Estilo do cabeçalho */
+.cabecalho {
+    background-color: #4a90e2;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+/* Estilo do cartão */
+.cartao {
+    background-color: #f9f9f9;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
